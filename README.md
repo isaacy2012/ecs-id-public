@@ -26,6 +26,10 @@ Someone made a mistake entering their username or student ID? No worries, simply
 
 Once you're done scanning, simply export to a CSV file and email to the course coordinator.
 
+**Save Course Code and email**
+
+Save the course code and email to autofill when exporting. 
+
 **Audible Scan Notification**
 
 When a scan is completed, a beep lets you know so you can scan the next QR Code.
