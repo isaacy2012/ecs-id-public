@@ -16,7 +16,7 @@ By adding notes to entries, you can notify the course coordinator of any issues.
 
 ecsID Scanner ensures that QR codes have been generated with the online ecsID generator to reduce malformed entries.
 
-ecsID Scanner also ensure that you never scan the same ecsID twice, eliminating duplicate entries.
+ecsID Scanner also ensures that you never scan the same ecsID twice, eliminating duplicate entries.
 
 **Edit Data**
 
